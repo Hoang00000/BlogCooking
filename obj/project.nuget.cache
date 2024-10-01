@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xssayq2CSpkFWKCWWj34r0VCStXahIbmCW6ofEgY25RcAsf+jSZb7jhvA/TEiTREy6z/+CoIL/H9JQSJnpuXwg==",
+  "success": true,
+  "projectFilePath": "D:\\BlogCooking\\BlogCooking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.5\\microsoft.netcore.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.5\\microsoft.windowsdesktop.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.5\\microsoft.netcore.app.host.win-x64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
