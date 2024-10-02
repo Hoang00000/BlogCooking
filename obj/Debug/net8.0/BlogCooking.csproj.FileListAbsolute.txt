@@ -23,3 +23,4 @@ D:\BlogCooking\obj\Debug\net8.0\refint\BlogCooking.dll
 D:\BlogCooking\obj\Debug\net8.0\BlogCooking.pdb
 D:\BlogCooking\obj\Debug\net8.0\BlogCooking.genruntimeconfig.cache
 D:\BlogCooking\obj\Debug\net8.0\ref\BlogCooking.dll
+D:\BlogCooking\obj\Debug\net8.0\BlogCooking.sourcelink.json
