@@ -24,3 +24,10 @@ D:\BlogCooking\obj\Debug\net8.0\BlogCooking.pdb
 D:\BlogCooking\obj\Debug\net8.0\BlogCooking.genruntimeconfig.cache
 D:\BlogCooking\obj\Debug\net8.0\ref\BlogCooking.dll
 D:\BlogCooking\obj\Debug\net8.0\BlogCooking.sourcelink.json
+D:\BlogCooking\bin\Debug\net8.0\package-lock.json
+D:\BlogCooking\bin\Debug\net8.0\package.json
+D:\BlogCooking\bin\Debug\net8.0\BlogCooking.staticwebassets.runtime.json
+D:\BlogCooking\obj\Debug\net8.0\BlogCooking.RazorAssemblyInfo.cache
+D:\BlogCooking\obj\Debug\net8.0\BlogCooking.RazorAssemblyInfo.cs
+D:\BlogCooking\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\BlogCooking\obj\Debug\net8.0\scopedcss\projectbundle\BlogCooking.bundle.scp.css
